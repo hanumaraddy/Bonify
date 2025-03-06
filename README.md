@@ -30,12 +30,12 @@ Bonify-QA-Automation/
 
  Features
 
-✅ Automates registration & login flow on Bonify
-✅ Implements Page Object Model (POM) for better maintainability
-✅ Captures screenshots on test failures
-✅ Generates detailed Extent Reports
-✅ Uses Log4j for logging and debugging
-✅ Supports cross-browser execution
+Automates registration & login flow on Bonify
+Implements Page Object Model (POM) for better maintainability
+Captures screenshots on test failures
+Denerates detailed Extent Reports
+Uses Log4j for logging and debugging
+Supports cross-browser execution
 
 Setup & Execution
 
